@@ -1,5 +1,5 @@
 # Bookshop-Backend 
-## The project name.
+## Bookshop Inventory Backend Project
 
 ○ This project is the backend logic, written in Python, for a hypothetical bookshop. 
 It allows users to add, remove, update, and search for books.
